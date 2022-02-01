@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=butlermuwo&theme=radical" alt="tedlivist" /></p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butlermuwo&theme=dracula)](https://github.com/butlermuwo/github-readme-stats) -->
 
-### **Check my Repositories and don't forget to give a star ** 👇
+### **Check my Repositories and don't forget to give me a star ** 👇
 
 
 [twitter]: https://twitter.com/ButlerMuwo
